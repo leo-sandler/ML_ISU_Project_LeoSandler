@@ -3,7 +3,7 @@
 This project was completed in [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb), with a Jupyter notebook running Python 3. It is a linear regressor using TensorFlow.
 
 ## Project Background:
-- For this project, I completed roughly 7 hours of tutorials from [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
+- For this project, I completed roughly 5 hours of tutorials from [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
   - This was then integrated into my own machine learning companion, for linear regression.
 - This project models [1990 California housing data](https://developers.google.com/machine-learning/crash-course/california-housing-data-description).
   - This project uses linear regression through [TensorFlow](https://www.tensorflow.org/).
