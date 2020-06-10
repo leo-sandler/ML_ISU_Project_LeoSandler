@@ -19,3 +19,5 @@ This project was completed in [Google Colaboratory](https://colab.research.googl
 - Google Drive [document](https://docs.google.com/document/d/1HJmPxy2qj38u2LT_MZ6D6ZhGgIsva3Ri8UFsKitiHoY/edit); including project logs, planning and notes from [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
 - I created a presentation to accompany my code and share what I learned.
   - <div class="canva-embed" data-design-id="DADaiJ_2Zmg" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADaiJ_2Zmg&#x2F;view?utm_content=DADaiJ_2Zmg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Machine Learning Presentation</a>.
+
+Note: TensorFlow 1.x was used, and now that 2.x is the main
